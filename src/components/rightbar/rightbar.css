@@ -1,0 +1,9 @@
+.rightbar
+{
+    display: flex;
+}
+
+.rightbarWrapper
+{
+    background-color: tan;
+}

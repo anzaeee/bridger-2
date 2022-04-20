@@ -1,0 +1,11 @@
+.postbox
+{
+    width: 200px;
+    height: 80px;
+    border-radius: 20px;
+    background-color: oldlace;
+    border: none;
+    color: orange;
+    font-size: 15px;
+    display: flex;
+}
